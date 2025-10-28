@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "126465534645",
+    "project_id": "popular-stays",
+    "storage_bucket": "popular-stays.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126465534645:android:c4f3751225d4e6697e2cfc",
+        "android_client_info": {
+          "package_name": "com.example.mytravaly_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126465534645-depffpfuofv6l4b2qpmrna7fadt2k4rf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mytravaly_task",
+            "certificate_hash": "16e4c7a38f658cff510b9c6c9dc87aa3a05c98d2"
+          }
+        },
+        {
+          "client_id": "126465534645-83ctd5fbea0qhqitn4nvo2n3qvb8icuv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4u4ezUgP64tYEmgQ31q4bpn-yxURN4oI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126465534645-83ctd5fbea0qhqitn4nvo2n3qvb8icuv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
